@@ -7,4 +7,4 @@ For keyword based search: KeywordSearch
 
 Used Maven for Compilation
 
-Under AdminLTE, use "Open_This_One.html" file
+Use "Open_This_One.html" file for AdminLTE Dashtab
